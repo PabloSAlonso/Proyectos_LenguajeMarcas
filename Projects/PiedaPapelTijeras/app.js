@@ -65,7 +65,7 @@ document.addEventListener("DOMContentLoaded", () => {
             } else {
                 result.style.fontSize = "2rem";
                 result.textContent = "It's a Tie!";
-                result.style.color = "white";
+                result.style.color = "rgb(78, 78, 78)";
             }
 
             reloadBtn.textContent = "Restart";

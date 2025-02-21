@@ -4,8 +4,8 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-    background: rgb(78, 78, 78);
-    color: #ffffff;
+    background: rgb(255, 255, 255);
+    color: rgb(78, 78, 78);
 }
 /* To center everything in game */
 .game{
@@ -74,6 +74,7 @@
     border-color: rgb(0, 0, 0);
     border: none;
     cursor: pointer;
+    color: white;
 }
 .rules{
     margin-top: 20px;
@@ -94,6 +95,7 @@
     border: none;
     border-radius: 10px;
     cursor: pointer;
+    color:white;
 }
 
 .result{
